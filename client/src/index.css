@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr {
+  border-bottom: 1px solid #F9F9F9
+}
+
+th {
+  background-color: #F8F8F9;
+  font-weight: normal;
+}

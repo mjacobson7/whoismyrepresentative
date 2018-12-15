@@ -1,0 +1,9 @@
+.title {
+    font-weight: normal;   
+    color: #656579;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}

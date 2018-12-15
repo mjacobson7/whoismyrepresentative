@@ -1,0 +1,18 @@
+.RepsList {
+    margin-right: 20px;
+    width: 40vw;
+}
+
+.title {
+    font-weight: normal;   
+    color: #656579;
+}
+
+.personType {
+    color: #03A7ED;
+}
+
+.tableRow:hover {
+    background-color: #F8F8F9;
+    cursor: pointer;
+}
